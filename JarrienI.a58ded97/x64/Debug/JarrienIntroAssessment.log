@@ -1,0 +1,27 @@
+﻿  main.cpp
+C:\Users\S258046\Documents\GitHub\JarrienIntroAssessment\Biostring.h(16,7): error C3646: 'rooms': unknown override specifier
+  (compiling source file 'main.cpp')
+  
+C:\Users\S258046\Documents\GitHub\JarrienIntroAssessment\Biostring.h(16,12): error C2143: syntax error: missing ',' before '['
+  (compiling source file 'main.cpp')
+  
+C:\Users\S258046\Documents\GitHub\JarrienIntroAssessment\Biostring.h(16,15): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'main.cpp')
+  
+  Stringlibarayfunctions.cpp
+C:\Users\S258046\Documents\GitHub\JarrienIntroAssessment\Biostring.h(16,7): error C3646: 'rooms': unknown override specifier
+  (compiling source file 'Stringlibarayfunctions.cpp')
+  
+C:\Users\S258046\Documents\GitHub\JarrienIntroAssessment\Biostring.h(16,12): error C2143: syntax error: missing ',' before '['
+  (compiling source file 'Stringlibarayfunctions.cpp')
+  
+C:\Users\S258046\Documents\GitHub\JarrienIntroAssessment\Biostring.h(16,15): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Stringlibarayfunctions.cpp')
+  
+C:\Users\S258046\Documents\GitHub\JarrienIntroAssessment\Stringlibarayfunctions.cpp(6,16): error C2600: 'TextAdventure::TextAdventure': cannot define a compiler-generated special member function (must be declared in the class first)
+C:\Users\S258046\Documents\GitHub\JarrienIntroAssessment\Stringlibarayfunctions.cpp(27,2): error C2065: 'rooms': undeclared identifier
+C:\Users\S258046\Documents\GitHub\JarrienIntroAssessment\Stringlibarayfunctions.cpp(31,2): error C2065: 'rooms': undeclared identifier
+C:\Users\S258046\Documents\GitHub\JarrienIntroAssessment\Stringlibarayfunctions.cpp(36,2): error C2065: 'rooms': undeclared identifier
+C:\Users\S258046\Documents\GitHub\JarrienIntroAssessment\Stringlibarayfunctions.cpp(41,2): error C2065: 'rooms': undeclared identifier
+C:\Users\S258046\Documents\GitHub\JarrienIntroAssessment\Stringlibarayfunctions.cpp(46,2): error C2065: 'rooms': undeclared identifier
+  Generating Code...
