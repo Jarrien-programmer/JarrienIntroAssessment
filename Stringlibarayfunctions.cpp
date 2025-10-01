@@ -10,7 +10,6 @@ TextAdventure::TextAdventure()
 	class spells;
 	class Rooms;
 	class PlayerAction;
-
 }
 void TextAdventure::StartPoint() 
 {

@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\S258046\\Documents\\GitHub\\JarrienIntroAssessment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A58DED97-3686-4D6A-974F-388F90082868}|JarrienIntroAssessment.vcxproj|C:\\Users\\S258046\\Documents\\GitHub\\JarrienIntroAssessment\\Stringlibarayfunctions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A58DED97-3686-4D6A-974F-388F90082868}|JarrienIntroAssessment.vcxproj|solutionrelative:Stringlibarayfunctions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A58DED97-3686-4D6A-974F-388F90082868}|JarrienIntroAssessment.vcxproj|C:\\Users\\S258046\\Documents\\GitHub\\JarrienIntroAssessment\\Biostring.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A58DED97-3686-4D6A-974F-388F90082868}|JarrienIntroAssessment.vcxproj|solutionrelative:Biostring.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -27,32 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Stringlibarayfunctions.cpp",
-              "DocumentMoniker": "C:\\Users\\S258046\\Documents\\GitHub\\JarrienIntroAssessment\\Stringlibarayfunctions.cpp",
-              "RelativeDocumentMoniker": "Stringlibarayfunctions.cpp",
-              "ToolTip": "C:\\Users\\S258046\\Documents\\GitHub\\JarrienIntroAssessment\\Stringlibarayfunctions.cpp",
-              "RelativeToolTip": "Stringlibarayfunctions.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-22T21:12:11.957Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Biostring.h",
               "DocumentMoniker": "C:\\Users\\S258046\\Documents\\GitHub\\JarrienIntroAssessment\\Biostring.h",
               "RelativeDocumentMoniker": "Biostring.h",
               "ToolTip": "C:\\Users\\S258046\\Documents\\GitHub\\JarrienIntroAssessment\\Biostring.h",
               "RelativeToolTip": "Biostring.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAABgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-09-22T21:11:52.776Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\S258046\\Documents\\GitHub\\JarrienIntroAssessment\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
@@ -60,8 +43,7 @@
               "RelativeToolTip": "main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-22T15:26:19.375Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-22T15:26:19.375Z"
             }
           ]
         }
