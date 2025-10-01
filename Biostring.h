@@ -107,6 +107,7 @@ public:
 	string moveSouth;
 	string moveWest;
 	string moveEast;
+	cout << "BIngBid"
 };
 
 #endif
