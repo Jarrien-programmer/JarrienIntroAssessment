@@ -8,4 +8,8 @@ int main()
 {
 	TextAdventure Begin;
 	Begin.StartPoint(); 
+	TextAdventure move;
+	move.SetUpRoom();
+
+
 }

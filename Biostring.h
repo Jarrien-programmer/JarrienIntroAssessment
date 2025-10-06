@@ -13,7 +13,7 @@ private:
 
 public:
 	string Player = "Wizard";
-	Room rooms[3];
+  TextAdventure(); 
 	void StartPoint();
 	void NorthRoom()const;
 	void SouthRoom()const;
@@ -74,7 +74,7 @@ public:
 class Spells
 {
 private:
-	string spells[4];
+	string spells[5];
 public:
 	string AgingSpell = "This spell causes the target to inexplicably age until they are withered husks.";
 	string FireBall = "This spell allows you to cast a ball of fire towards your choice of target";
@@ -107,7 +107,6 @@ public:
 	string moveSouth;
 	string moveWest;
 	string moveEast;
-	cout << "BIngBid"
 };
 
 #endif
