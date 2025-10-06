@@ -11,12 +11,16 @@ TextAdventure::TextAdventure()
 	class Rooms;
 	class PlayerAction;
 }
-void TextAdventure::StartPoint() 
+void TextAdventure::StartPoint()
 {
 	cout << "This is your start point. " << endl;
 	cout << "Which room catches your interest best?" << endl;
 
-}
+};
+string PlayerAction::move()
+{
+	if(move  )
+};
 int TextAdventure::currentRoomIndex()
 {
 	string RoomIndex = 0;

@@ -103,10 +103,11 @@ string room3 = "This is the taverns keeper area, they will give you quest and ad
 class PlayerAction
 {
 public:
-	string moveNorth;
-	string moveSouth;
-	string moveWest;
-	string moveEast;
+	string move();
+	string moveNorth();  
+	string moveSouth();
+	string moveWest();
+	string moveEast();
 };
 
 #endif
