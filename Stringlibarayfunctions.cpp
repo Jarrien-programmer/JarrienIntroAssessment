@@ -17,10 +17,6 @@ void TextAdventure::StartPoint()
 	cout << "Which room catches your interest best?" << endl;
 
 };
-string PlayerAction::move()
-{
-	if(move  )
-};
 int TextAdventure::currentRoomIndex()
 {
 	string RoomIndex = 0;
